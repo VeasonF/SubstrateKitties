@@ -1,0 +1,1 @@
+{"rustc":15486152709010118769,"features":"[]","target":5359917959052758652,"profile":11675693005745566725,"path":14645529160512319152,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"wasm32-unknown-unknown/release/.fingerprint/hash-db-6a8d972270a2b63f/dep-lib-hash-db"}}],"rustflags":["-C","link-arg=--export-table"],"metadata":4716434787939564601,"config":0}

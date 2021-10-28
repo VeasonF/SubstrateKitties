@@ -1,0 +1,12 @@
+/home/v/substrate-package/substratekitties/target/release/deps/jsonrpc_pubsub-45491e1b60ac0563.rmeta: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-pubsub-10.1.0/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-pubsub-10.1.0/src/delegates.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-pubsub-10.1.0/src/handler.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-pubsub-10.1.0/src/subscription.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-pubsub-10.1.0/src/types.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-pubsub-10.1.0/src/typed.rs
+
+/home/v/substrate-package/substratekitties/target/release/deps/libjsonrpc_pubsub-45491e1b60ac0563.rlib: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-pubsub-10.1.0/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-pubsub-10.1.0/src/delegates.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-pubsub-10.1.0/src/handler.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-pubsub-10.1.0/src/subscription.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-pubsub-10.1.0/src/types.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-pubsub-10.1.0/src/typed.rs
+
+/home/v/substrate-package/substratekitties/target/release/deps/jsonrpc_pubsub-45491e1b60ac0563.d: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-pubsub-10.1.0/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-pubsub-10.1.0/src/delegates.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-pubsub-10.1.0/src/handler.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-pubsub-10.1.0/src/subscription.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-pubsub-10.1.0/src/types.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-pubsub-10.1.0/src/typed.rs
+
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-pubsub-10.1.0/src/lib.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-pubsub-10.1.0/src/delegates.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-pubsub-10.1.0/src/handler.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-pubsub-10.1.0/src/subscription.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-pubsub-10.1.0/src/types.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-pubsub-10.1.0/src/typed.rs:

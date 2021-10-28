@@ -1,0 +1,1 @@
+{"rustc":15486152709010118769,"features":"[]","target":2918968707115808048,"profile":11675693005745566725,"path":11294385345639400456,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"wasm32-unknown-unknown/release/.fingerprint/bitmask-630fabb2a1aef2f0/dep-lib-bitmask"}}],"rustflags":["-C","link-arg=--export-table"],"metadata":11623491112533274509,"config":0}

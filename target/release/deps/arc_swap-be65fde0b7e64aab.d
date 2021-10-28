@@ -1,0 +1,13 @@
+/home/v/substrate-package/substratekitties/target/release/deps/arc_swap-be65fde0b7e64aab.rmeta: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/arc-swap-0.3.11/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/arc-swap-0.3.11/src/as_raw.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/arc-swap-0.3.11/src/cache.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/arc-swap-0.3.11/src/compile_fail_tests.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/arc-swap-0.3.11/src/debt.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/arc-swap-0.3.11/src/gen_lock.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/arc-swap-0.3.11/src/ref_cnt.rs
+
+/home/v/substrate-package/substratekitties/target/release/deps/libarc_swap-be65fde0b7e64aab.rlib: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/arc-swap-0.3.11/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/arc-swap-0.3.11/src/as_raw.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/arc-swap-0.3.11/src/cache.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/arc-swap-0.3.11/src/compile_fail_tests.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/arc-swap-0.3.11/src/debt.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/arc-swap-0.3.11/src/gen_lock.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/arc-swap-0.3.11/src/ref_cnt.rs
+
+/home/v/substrate-package/substratekitties/target/release/deps/arc_swap-be65fde0b7e64aab.d: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/arc-swap-0.3.11/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/arc-swap-0.3.11/src/as_raw.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/arc-swap-0.3.11/src/cache.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/arc-swap-0.3.11/src/compile_fail_tests.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/arc-swap-0.3.11/src/debt.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/arc-swap-0.3.11/src/gen_lock.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/arc-swap-0.3.11/src/ref_cnt.rs
+
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/arc-swap-0.3.11/src/lib.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/arc-swap-0.3.11/src/as_raw.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/arc-swap-0.3.11/src/cache.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/arc-swap-0.3.11/src/compile_fail_tests.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/arc-swap-0.3.11/src/debt.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/arc-swap-0.3.11/src/gen_lock.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/arc-swap-0.3.11/src/ref_cnt.rs:

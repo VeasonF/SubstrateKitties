@@ -1,0 +1,1 @@
+{"rustc":6030236523401801000,"features":"[]","target":4104912104046412671,"profile":8568081267110557927,"path":18207207689284224125,"deps":[[15773156417064805490,"crossbeam_utils",false,10735105652459936936]],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/crossbeam-channel-e5b2310e15331c45/dep-lib-crossbeam-channel"}}],"rustflags":[],"metadata":5724866927128074370}
