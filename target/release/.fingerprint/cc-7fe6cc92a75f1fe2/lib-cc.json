@@ -1,1 +1,0 @@
-{"rustc":6030236523401801000,"features":"[\"parallel\", \"rayon\"]","target":7827699110258446455,"profile":8568081267110557927,"path":1223716297386212850,"deps":[[6854851969422492094,"rayon",false,1171251646669107894]],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/cc-7fe6cc92a75f1fe2/dep-lib-cc"}}],"rustflags":[],"metadata":16504835547841594983}
